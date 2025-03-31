@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+   background: url(https://learn.algoritmika.org/uploads/2020/12/fireworks-2731725_1920_0_1607673819.jpg);
+   color: #ffffff;
+   text-shadow: 1px 0 1px #000, 
+                0 1px 1px #000, 
+                -1px 0 1px #000, 
+                0 -1px 1px #000;
+    padding: 10px;
+    margin: 5px;
+    font-size: 35px;
+}
+
+header a {
+    color: aqua;
+}
+
+.blabla {
+    background:url(https://learn.algoritmika.org/uploads/2020/12/%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BA%D0%B8%D0%B4%D0%BA%D0%B8_0_1607673818.jpg) ;
+    margin: 10px;
+    padding: 10px;
+}
+a {
+color: rgb(241, 109, 14);
+font-weight: bold;
+}
+
+table img {
+    width: 80px;
+}
+body {
+    background-color: blanchedalmond;
+}
+footer p {
+    font-weight: bold;
+}
